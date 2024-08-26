@@ -1,0 +1,1311 @@
+https://adictosaltrabajo.com/2012/09/17/gson-java-json/
+https://www.baoss.es/herramientas-imprescindibles-para-desarrolladores-java-2021/
+https://oscarmaestre.github.io/servicios/textos/tema3.html
+https://upscodigojava.wordpress.com/2014/02/09/ejemplo-en-java-con-sensor-de-temperatura-en-arduino/
+
+https://172.20.1.159:9443/#!/home log de facturacion electronica
+**************************************************************************
+real debrid prices mas strement
+https://community.sap.com/t5/c-khhcw49343/SAP+Business+One/pd-p/01200615320800000816
+https://biuan.com/OWDD
+https://www.youtube.com/watch?v=zp8_RE0RKFk
+https://web.whatsapp.com/
+https://stackoverflow.com/questions/tagged/vaadin?tab=newest&page=5&pagesize=15
+*************************************************************************************************
+https://soajp.blogspot.com/2017/02/anadir-librerias-manualmente-usando.html#:~:text=La%20opci%C3%B3n%20%2DDfile%3D%20se%20usa,Java%20para%20descargar%20la%20librer%C3%ADa.
+
+************************************************************************************************
+*****************************************
+
+034-0012012-1 cedual de papa
+
+
+luis planta de block 829-961-0811
+extension 3127
+ip 172.20.1.87
+
+tecnico de aire :
+tel =829-731-3607 victor
+
+clave anydesk servidor de base de datos de fermin**********
+
+anydesk=fs123456789
+clave windows : CENTRALFS
+
+************************
+
+Buen dia Patricia.
+
+El destino se creo exitosamente.
+
+Pasos para crear un destino internacional.
+
+
+2) Provincias y Municipios
+ actualizar y listo.
+
+1) Crear ciudades y sectores.
+
+2) Provincias y Municipios
+
+3) Socio de negocio > crear > direcciones >definir nuevo >
+
+ nombre destino /Pais/provincia/condado/municipio/ciudad/sector
+
+
+nota:
+ enlazar el codigo de provincia y municipio dela provincia nueva creada
+ definiendo una provincia nueva
+
+
+************************************
+
+https://www.youtube.com/watch?v=UExwNGhEcZc
+https://web.whatsapp.com/
+https://mkyong.com/java/java-how-to-add-and-remove-bom-from-utf-8-file/
+C:\Users\maximilianoa-te\.m2\repository\mysql\mysql-connector-java\8.0.29;
+C:\Users\maximilianoa-te\.m2\repository\org\hibernate\hibernate-core\5.4.1.Final\hibernate-core-5.4.1.Final.jar
+https://www.educa2.madrid.org/web/amadeo.mora/basex
+
+https://github.com/andresWeitzel/Api_Rest_Spring_Productos?tab=readme-ov-file#paso-1-creaci%C3%B3n-de-un-proyecto-spring-boot-con-maven-en-spring-tool-suite-4-y-configuraciones-iniciales
+
+https://www.youtube.com/watch?v=J_D2VBJscxI facturacion electronica DGII
+https://mail.zoho.com
+  http://fecc.cementoscibao.com/facturaelectronicaWS/fe/autenticacion/api/autenticacion/semilla
+
+   http://fecc.cementoscibao.com/fe/autenticacion/api/autenticacion/semilla
+
+  http://fecc.cementoscibao.com/facturaelectronicaWS/fe/autenticacion/api/autenticacion/semilla
+102002134
+ Debe quedar asi
+
+carolina espalsa :
+tel 829-276-2906
+
+  <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <version>3.1.1</version>
+        </dependency>
+
+
+
+https://www.javainuse.com/boot3/sec/ssl/1#google_vignette
+https://www.javadevjournal.com/spring-security/spring-security-filters/
+
+keytool -genkeypair -alias javadevjournal -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore javadevjournal.p12 -validity 3650 ;
+
+Is CN=wsecf, OU=cementoscibao, O=cementoscibao, L=santiago, ST=santiago, C=rd correct,password=ecfdgii?
+
+https://www.adictosaltrabajo.com/2008/04/03/xml-signature/
+
+https://www.supercontable.com/pag/documentos/descar/libroCierrepdf.htm
+https://www.youtube.com/watch?v=pWe2LHaSpnI&list=PL5sFNOYxsSxR7toDdzxby522tzXTPmSzK&index=11
+https://www.youtube.com/watch?v=8nz4UBWY7As
+https://www.youtube.com/watch?v=-PDWIZz42-k&list=PLYHSJa6R5ZMXyC4v7JgzQKr50yCFPHPBj&index=4
+
+https://app.aluracursos.com/forum/topico-los-test-me-cargan-perfectamente-pero-ya-no-puedo-iniciar-la-aplicacion-221384 sprintSecurity prooblema de servelet 
+
+https://api.cert.facturado.digital.com.do/external/redoc#tag/Facturas-Electronicas
+
+*****************Netbean**************************
+Cuando Netbean no quiere subir entramos a 
+C:\Users\maximilianoa-te\AppData\Roaming\NetBeans
+y eliminamos la carpeta de la version de netbean que no sube
+
+****************************************************
+https://www.jsonschema2pojo.org/
+
+Microsoft to do *******************
+
+ usaurio : ninomax0529@gmail.com
+  clave : Max1234567890
+neno : 809-629-0465
+celular comedor 829-971-5178
+
+************************************
+
+https://www.youtube.com/watch?v=lxvLh0IWULc registro de salida
+
+https://www.codigocorrecto.com/programacion/sistema-de-rutas-en-flutter-navegacion/
+
+******************olphan hibernate **************************
+https://codippa.com/how-to-resolve-a-collection-with-cascadeall-delete-orphan-was-no-longer-referenced-by-the-owning-entity-instance/
+
+  @OneToMany(cascade = CascadeType.ALL, mappedBy = "entradaDiario",orphanRemoval = true,fetch = FetchType.EAGER)
+***********************************
+
+registro en interfell***************
+
+usuario : ninomax0529@gmail.com
+clave   : M@x1234567890
+*********************
+https://www.whatzmeapi.com/#
+https://www.youtube.com/watch?v=kv8cmvgjT7c estado de situacion financiera
+
+https://blog.corponet.com/asi-controlan-las-empresas-sus-niveles-de-inventarios
+http://www.inacap.cl/web/material-apoyo-cedem/alumno/Contabilidad/Contabilidad-Basica%20CCCB01/CCPR03_U4_MP.pdf
+
+numero de reclamacion :1-16159429971  fecha 31-01-2023 tarjeta hakiada
+
+https://parzibyte.me/blog/2020/04/09/punto-venta-android-open-source/
+
+UPDATE forma_pago_dgii SET nombre = CONVERT(BINARY CONVERT(nombre USING latin1) USING utf8)
+
+https://www.anchiadvisors.com/post/comprobantes-fiscales-en-rep%C3%BAblica-dominicana
+
+https://www.youtube.com/watch?v=Y5gYVnpqTQA
+
+https://www.youtube.com/watch?v=T_Vc-NgRbao&list=PL2il3q8txuIkC6eQCSr8aJ7xyF6DARYCf&index=13
+https://siigonube.portaldeclientes.siigo.com/basedeconocimiento/elaborar-comprobante-pago-egreso/
+https://www.youtube.com/watch?v=XJ5sNgMXNAI 
+
+http://solocarteraytesoreria.blogspot.com/2015/
+
+https://www.rddebito.com/contabilidad-dominicana/contabilidad-general/la-nomina-en-republica-dominicana
+https://web.ariaxa.com/use_cases erp 
+https://excelaprende.com/pbsuscripcionyt/?utm_source=tva&utm_campaign=PB02&utm_medium=03_envolvimento_30d&utm_content=0013&utm_term=quente&gclid=Cj0KCQjwnP-ZBhDiARIsAH3FSRfBh3fGunUDoNkg0jTeU9mtKcE0Z5LgLskirwWUSz9AQtGmBpSG51caAmn9EALw_wcB
+
+https://blog.excelcontablex.com/como-utilizar-el-diario-auxiliar-en-la-contabilidad/
+
+https://www.youtube.com/watch?v=PvrJf4h-tns sistema javaFX
+
+***hosting gratuito para java***
+
+http://172.20.0.227/valeconsignacion/#/login
+http://172.20.0.227/valeconsignacion/#/consulta_vales
+  jelastic.com
+
+https://eltonicoafricano.site/tonico/?src=CPA_Top1_H35a99D#
+https://www.stackextend.com/java/generate-pdf-document-using-jasperreports-and-spring-boot/
+
+**********************
+ightrack***********
+tel :809-233-1919 
+***************
+luis cruz
+809876-5951
+*******************
+https://github.com/TutorProgramacion/JavaFX-Tutoriales
+ 
+ACTIVAR LA VERIFICACION EN DOS PASO DE GMAIL
+
+ 1- ACTIVARLA MEDIANTE EL NUMERO DE CELULAR
+    LLEGA UN MENSAJE DE GMAIL A MI CELULAR CON UN CODIGO .
+  INTRODUCIR EL CODIGO Y LUEGO ACTIVAR LA VERIFICACION EN DOS PASO.
+ 2-  volver a verificacion en dos pasos y
+ DESPUES AGREGAR UN NOMBRE DE LA APICACION Y GENERAR UNA LLAVE.
+    COPIAR ESA ELLAVE Y GUARDARLA. 
+ejemplo**************
+
+ftvxblqtarnyepel
+*********************
+listo.
+
+ https://www.jairogarciarincon.com/clase/interfaces-de-usuario-con-javafx/libretadirecciones-despliegue
+GUZMAN DIAZ, NEFTALI ANTONIO
+******************************************
+https://media.gbm.com/mercados/trading-que-es-y-como-funciona/
+https://media.gbm.com/video/los-secretos-del-dinero-volumen-1-sofia-nino-de-rivera/
+
+https://byrperu.com/blog/tips-del-dia-1/post/cierre-masivo-de-ordenes-de-ventas-1
+https://openjfx.io/
+
+******SERVICELAYER*****
+https://www.youtube.com/watch?v=bYfUaeOL46Q
+******************************************
+****************************************
+************
+tel:809-906-6109  el viejito
+******************
+corasan cntrato agua las colina
+01048142
+4	INGENIERIA FSC, INC.	Av. 27 de febrero No. 17, prox. A Colinas Mali, Santiago de losCaballeros, R.O.	1	ADMINISTRADOR	2022-04-29 15:30:47	DEDICADA A LA CONSTRUCCION	809-241-1234	ingenieriafsc@gmail.com	‰PNG
+
+
+************
+enccobros@metro
+mgutierre@metro 
+Metro gas :
+Tel :809-226-0202
+https://www.comunidadraulluna.com/home
+  usuario=ninomax0529
+  clave =Nino@0529
+
+*******************************
+react*****
+https://www.youtube.com/watch?v=WMHOE6RcHlY
+***
+*********Base de datos de la bomba************
+Host :172.20.1.107
+usuario :nino
+clave :Almonte123.
+Data base :H0_DATA 
+
+**************object type*********
+https://www.sap-business-one-tips.com/list-of-object-types-on-sap-business-one/
+https://biuan.com/?q=OIGN
+**************object type*********
+************
+http://gitlab/lcruz/transporte-luperon.git
+NestJs
+https://ualmtorres.github.io/SeminarioNestJS/
+***************************************************
+https://github.com/TutorProgramacion/JavaFX-Tutoriales
+http://sql.11sql.com/sql-select-into.htm
+usuario mysql vb=root clave =Root123*
+*********inventario**************
+
+vimenca***********
+usuario ninomax0529
+clave 05291979nino
+pregunta de segu :
+
+tu pareja conociste : maovalverde
+profesor favorito : joseluis
+
+https://bv.com.do/onlinebanking/
+**************************
+ 09104250014 cuenta banco bhd de jose dueno de casa la colina
+tel : 809-343-7955
+ cedula
+****************
+LUPERON 
+BASE DE DATOS
+ USURIO root
+ clave ROOT123
+carmona : 829-745-5901
+telefono :809-570-6200
+****usuario seguimiento neumatico****
+ usuario :nino
+ clv:Maximilianoa321.
+
+ https://ichi.pro/es/visualizacion-de-datos-con-react-chart-js-209311532565250
+
+*********************
+**************miriada*********
+T0."CANCELED" = 'N'  
+usuario  ninoma0529
+clave    Maxnino0529
+******************************
+10.0.0.18
+http://172.20.1.111/CCinventario/equipo
+***************************************
+https://interfell.com/#/app/home empleo
+
+*************---************
+*********************************
+OneDriver cuenta 
+usuario : maxsoft0529@gmail.com
+clave   : Ms1234567890
+*************************
+maxsoft0529@gmail.com usuario
+@maxsoft1234567890 clave 
+xishrnxscraqyxyl  **** LLAVE DE APLICACION
+*************************
+ninomax0529@gmail.com
+clave =@maxsoft0529
+***************-----**********
+
+https://www.tabnine.com/code/java/methods/java.lang.ClassLoader/getResourceAsStream
+gestion de proyecto en ssap b1
+https://www.youtube.com/watch?v=aB1r55pS0c4
+
+https://github.com/Jaspersoft/jrs-rest-java-client#report-services
+
+color 
+https://galactic.ink/sphere/
+https://www.hostinger.es/tutoriales/como-instalar-tomcat-en-ubuntu#Paso-1-Instalar-Java
+*****************************************************************
+Proyecto maven solucion  problema Failed to execute goal org.apache.maven.plugins:maven-war-plugin:3.3.1:war
+
+click derecho en el proyecto
+run maven
+properties 
+seleccionar el jdk 1.8 y o.k
+cambiar  el jar por un war 
+en la clase principal colocar
+
+ @Override
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+        return application.sources(Application.class);
+    }
+
+cuando hay cambio en  el backend 
+tenemos que parar la corrida del proyecto y darle clear build y luego correrlo .
+
+si la version de mysql es 5.5.19 tenemos que agregar hay string de conexion 
+
+url=jdbc:mysql://localhost:3306/sistemaProduccion el valor 
+
+?zeroDateTimeBehavior=convertToNull y si es mayor que la 5 quitarle
+
+el valor ?zeroDateTimeBehavior=convertToNull
+
+error
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+solucion :
+en el task manager finalizar los binarios que estan corriendo de java
+
+Subir el proyecto vaadin a un servidor tomcat en produccion**
+
+click derecho set configuration
+1-seleccionar produccion
+2-ejecutar npm install
+3-despues  darle clearbuild
+y por ultimo  build with dependencies
+
+***
+****************************************************************************
+
+https://vaadin.com/docs/v14/flow/tutorials/in-depth-course/database-entities-and-services
+http://cristianruizblog.com/spring-boot-crud-mvc-jpa-relaciones-11-y/
+http://jxls.sourceforge.net/1.x/samples/dynamicstylesample.html
+http://jxls.sourceforge.net/1.x/reference/sheetoperations.html
+http://www.jtech.ua.es/ayto/ayto2008/servd-web/sesion03-apuntes.html
+https://developer.ibm.com/es/languages/java/tutorials/
+Spring boot
+https://github.com/eugenp/tutorials
+https://github.com/edwise
+https://caniuse.com/
+controlador.venta.facturacion.FacturacionTochHorizontalController
+http://solocarteraytesoreria.blogspot.com/2015/ gestion de almacen
+
+https://github.com/sgwood63/jrs-rest-java-client#rest-client-for-jasperreports-server--
+
+C:\dist\dist>java -jar EnvioDeReportePorCorreo.jar 2021-3-21 este es el argumento
+2019193321.
+https://www.youtube.com/watch?v=5UrerokYc74 JAVAFX JDK 11 CON APACHE NETBEAN 
+
+*************************
+https://speques.wordpress.com/2010/09/22/tablas-de-sap-business-one/
+********************************************
+
+****************************
+solicitud banreservas 1-7922812579
+
+felix =809-447-7445
+
+fecha 2020-11-27
+que no se pudieron cancelar los documentos por una reconciliacion automatica
+factrura= 100069897
+conduce=100074026
+https://www.tuslibros.com/ebook/Curso-Basico-de-Electronica/pdf
+
+https://mkyong.com/java/how-to-convert-inputstream-to-file-in-java/
+
+https://github.com/Jaspersoft/jrs-rest-java-client-tests/blob/master/src/test/java/com/jaspersoft/jasperserver/jaxrs/client/apiadapters/reporting/ReportingServiceTest.java
+
+*******************************
+
+
+https://centronaturaleza.org/
+
+$F{DESCRIPCION}.length()>=64 ?
+$F{DESCRIPCION}.substring(0,64) :
+$F{DESCRIPCION}
+
+naturalezaonline.org
+$F{GFH}==null? "N/A" :$F{GFH}
+
+
+$[SUM(D10)/if(SUM(D11:E11)=0,1,SUM(D11:E11))]
+
+$[SUM(B11:C11)]
+
+
+https://aplicaexcelcontable.com/blog/curso-gratis-contabilidad-basica-video4.html
+809-242-8833 
+inacio 829-478-2126 
+
+ingri :809-242-7444
+809-501-2890 cel de ingri
+Banco caribe *****
+donde naciste
+  maovalverde
+telefono : 809-242-7444
+*****
+3214669 maria eus
+https://tecpro-digital.com/plantillas-de-presentacion-para-un-trabajo-en-word/
+
+https://sites.google.com/site/procesocontablejgev/5---clasificacion-de-las-cuentas/1--activos
+
+https://www.youtube.com/watch?v=rjIAjT2Vn7E&list=PLErD1cRL87W8kMyCkJXUboLZ9WoXd54fR&index=5
+https://www.youtube.com/watch?v=rMVB_pGe0Cg jasper server
+
+https://www.vogella.com/tutorials/JavaExcel/article.html
+
+http://www.jtech.ua.es/j2ee/2002-2003/modulos/java/apuntes/apuntes5.htm extensiones
+
+$V{porciento_mensual}>95 ? "C:\\Max Sistem\\SIGE\\foto\\punto_verde.png" :
+
+($V{porciento_mensual}<85 ? "C:\\Max Sistem\\SIGE\\foto\\punto_rojo.png" :
+ 
+( $V{porciento_mensual}>85 &&  $V{porciento_mensual}<95 ?  "C:\\Max Sistem\\SIGE\\foto\\punto_amarillo.png" : 
+	 "C:\\Max Sistem\\SIGE\\foto\\punto_verde.png" 
+))
+
+
+
+educaconta.com
+809-232-66-77
+*****************
+https://github.com/eugenp/tutorials java
+*****************
+https://www.youtube.com/watch?v=86x0LDJCsM8 
+data transfer en sap b1
+bloqueo impresion de cheque en sap
+cuenta de banco propio
+
+clave gmail 19790529jeng
+
+********************
+
+https://www.photopea.com/
+
+https://www.discoduroderoer.es/cerrar-una-ventana-en-javafx/
+
+https://vaadin.com/docs/v7/framework/articles/JasperReportsOnVaadinSample.html
+
+https://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-crud-operations-tutorial/
+http://www.myjavazone.com/p/banco-de-proyectos.html
+
+apendix aplication propiety
+https://jsonformatter.curiousconcept.com/
+http://tutorials.jenkov.com/javafx/progressbar.html
+https://www.adilson.com.br/testeutil printer matricial
+https://codigoalonso.blogspot.com/2015/12/hola-mundo-con-javafx-stage-scene-node-scene-graph.html
+https://easyknowledge24.blogspot.com/p/javafx.html
+
+https://www.codejava.net/frameworks/spring/spring-mvc-with-jdbctemplate-example
+
+https://instintobinario.com/7-plataformas-para-aprender-gratis/
+https://design.famous.co/?ref=ga&gclid=EAIaIQobChMIqdXmy4_o5QIVBr53Ch339wT6EAEYASAAEgKrUPD_BwE#
+https://www.adictosaltrabajo.com/2019/05/14/implementando-un-crawler-sencillo-con-jsoup/
+****************************************
+https://blogs.sap.com/2017/04/27/list-of-object-types/
+************************************
+credenciales de tutoriales point
+us=micorreo
+clave=19790529123
+
+*******************************
+
+
+Planificacion orden de produccion
+
+http://ppw.cementoscibao.lan/#!/lista-planificaciones
+
+*********************************************
+
+https://www.studocu.com/es/document/universitat-internacional-de-catalunya/economia-de-la-empresa/apuntes/listado-de-tablas-de-sap-b1/3929910/view
+
+curso de jpa usuario ninomax0529
+clave nino123456
+
+https://www.youtube.com/watch?v=8pxpG-57An8  sap Lumira video
+
+https://vaadin.com/tutorials/
+https://blogs.sap.com/2017/04/27/list-of-object-types/ TIPO DE OBJETO EN SAP
+https://instintobinario.com/la-gestion-de-dependencias-y-maven/
+
+clave y usuaruio de lumira*********
+usuario=usuario9
+clave=0529123
+
+http://gitlab/jmoya/GestorInventario.git
+
+http://bj83.de/sap-business-one-common-tables-and-queries/  tabla de sap agrupado  por modulo
+
+https://blogs.sap.com/2014/06/25/report-queries-for-sap-business-one-part-1-payment-related/
+
+https://docs.oracle.com/javase/8/javafx/api/javafx/scene/doc-files/cssref.html#typesize colores en javafx
+
+ruta  /home/ngadmin/test/reporteProduccionEquipo.xls servicio 
+
+http://trucosycursos.es/eliminar-filas-en-blanco/
+
+teamviewer 
+id=1207020230
+clave jm74c3
+
+809-710-6282
+
+27-59 randy mao
+
+perdida de la relacion provincia y municipio y sectores en sap
+
+es causado por un cambio de nombre en una de esta entidades.
+
+************************************************************
+jaspersoft-studio
+http://codigoxules.org/en/creando-informes-java-jasperreports-desde-jaspersoft-studio/
+
+**************************************************************
+
+Cuando todo esta bien y cambiamos algo en el modelo ygeneramos los webservice de nuevo,
+y sale el error cross origin,en la clase principal al que resetarla para que se le quite ese error.
+
+SOLICITUD AUMENTO DE TARJETA 69190
+elcira flota  5735;
+
+https://javiergarciaescobedo.es/
+
+http://www.hermosaprogramacion.com/2014/10/android-sqlite-bases-de-datos/
+
+http://www.sap-business-one-tips.com/list-of-object-types-on-sap-business-one/?lang=en
+
+tabla en sap b1
+
+ionic***
+https://medium.com/@josephat94/navegaci%C3%B3n-en-ionic-4-802d42e2d263
+
+https://blog.ng-classroom.com/blog/ionic2/sqlite-and-ionic/ npm install @ionic/app-scripts@latest --save-dev
+
+****
+
+*****https://speques.wordpress.com/2010/09/22/tablas-de-sap-business-one/ tabla de sap b1*******
+epson l555
+id teamviwer=205620425 computadora jhonatan
+
+solicitud de prestamo 59542;
+
+http://codigoxules.org/creando-informes-java-jasperreports-desde-jaspersoft-studio/
+webservice
+https://community.jaspersoft.com/project/web-service-data-source
+6437.98
+TABLAS EN SAP B1
+
+https://archive.sap.com/discussions/thread/1527734
+
+https://academia-binaria.com/formularios-reactivos-con-Angular/
+
+http://trackingsap.cementoscibao.lan/#/login
+https://bootstrapious.com/p/bootstrap-sidebar
+
+https://www.devglan.com/angular/material-sidenav-example
+
+https://code-maze.com/angular-material-error-details-pages/
+
+https://uigradients.com/#Politics
+
+http://www.java2s.com/Tutorials/Java/Data_Type_How_to/Date_Convert/Convert_LocalTime_to_java_sql_Time.htm
+dominio ********
+usuario :winadmin
+Clave :Cmntscb1964.
+
+-webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027)
+
+jdbc:sap://172.20.1.18:30015/DB_CCIBAO
+
+com.sap.db.jdbc.Driver
+
+-----@cementoscibao.com-----
+maximilianoa@cementoscibao.com
+RmigratoCC2023#G
+
+uusuario correo=ninomax0529@gmail.com
+
+clave de hana ultima 1979Max0529.#
+usuario malmonte
+
+clave sap 05291979
+
+-----cuenta de oracle-----
+
+clave=Nino19790529
+
+https://www.youtube.com/watch?v=gSy4vY_x2-w angular 6
+
+-------***-----------------------------
+PedidosEntregadoADeliveryController
+write getor de proyecto
+gitLab-------gitLab------------------------
+
+http://172.20.0.146/users/sign_in
+
+http://gitlab.cementoscibao.lan/
+
+usuario=nino
+
+clave=Ma05291979
+*******************************
+***********github*************
+usuario=ninomax0529@gmail.com
+clave=@nino1234567890
+-----------------------------------------
+******************************
+java.io.InputStream
+http://172.20.0.227/valeconsignacion/#/crearvale
+InventoryTransferRequests
+
+*******************************
+datos de correo de ovi:
+  nombre robertrg1229@gmail.com
+clave 1229robertguira
+
+***********************	
+ip ponche entrada  recepcion****************
+
+172.20.1.182-183
+148 edificio tecnico
+
+jasper studio*****
+
+https://www.ecodeup.com/como-crear-reportes-en-java-con-jasperreports/ 
+
+******
+
+https://coolors.co/084c61-fbefee-8126a8-4f6d7a-b2d5d6 selector de colores,
+
+http://consensussa.com/html/INTRODUCCION.html
+
+https://phenobarbital.wordpress.com/2006/09/27/una-funcion-agregada-para-mysql-5-para-el-calculo-de-fechas/
+
+https://churriwifi.wordpress.com/page/2/ bi inteligencia de negocio.
+
+http://slideplayer.es/slide/84697/ tecnologia web
+
+
+
+
+
+($F{libra_bruta}==0 ? $V{tonelada_1} :
+
+    ($F{estado}==2 ? $V{tonelada_1}
+
+ : $V{tonelada_1})
+)
+
+https://172.20.1.15:50000/Service%20Layer%20API%20Reference.html;
+
+http://www.jsonschema2pojo.org/
+
+http://abhiandroid.com/ui/progressbar
+ 
+crystal reporte;
+
+https://www.youtube.com/watch?v=vzuZbY6R6Q8
+https://www.youtube.com/watch?v=OZSB9CcKlYM&t=626s
+
+SLD=172.20.1.15
+
+
+Para instalar sap se siguen los siguientes paso :
+
+1-se instala el modulo de SAP_HANA_CLIENT.Win32 o 64 bit.
+2-luego se instala el cliente de  SAP Business One Client (32 o 64 bit),utilizando el setup que esta en la carpeta de client.
+3-se registran los servidores en el archivo host de window para que no pide siempre la configuracion.
+
+
+Para correr Sap por primera vez tiene que ser como administrador.click derecho para correr como administrador;
+
+http://descargar.cnet.com/s/java-7/
+
+***********problema con los adon de sap*************
+    0) chequear que no hay usuario inicaido
+   solucion uno.
+
+   1)Reinicial la computadora
+   2)Correr sap como administrador
+   3)entrar a Gestion de addon 
+   
+ solucion dos
+
+ 1) chequear que no hay usuario inicaido
+ 2) entrar donde esta sap instalado
+ 2.1) eliminar los archivos sbo
+ 2.2) eliminar el contenido de la carpeta sap
+
+
+********************
+
+http://172.20.1.5:8081/jasperserver/flow.html?_flowId=viewReportFlow&_flowId=viewReportFlow&ParentFolderUri=%2Freports&reportUnit=%2Freports%2Ftransferencia&standAlone=true;
+
+usuario=jasperadmin;
+clave=jasperadmin;
+
+********************
+usuario y clave recurso humano ***************
+
+squema=pro
+
+usaurio=nino
+
+clave=Ninomax0529
+
+******************************
+
+
+com.sap.db.jdbc.Driver
+
+http://172.20.1.5/wiki/index.php/Especial:SubirArchivo wiki para registrar evento y problema
+
+legancente ip 172.20.1.13 baseDato ip servidor 172.20.0.141  
+
+*********************************
+  comedor  yadira 
+  829-352-3090
+  ip servidor 172.20.0.141 
+
+ ip 172.20.0.102
+ 
+**********************************
+
+*****************************
+traking sap  
+
+usaurio : 2007012 
+clave :+f123
+
+    ip 172.20.0.227  
+
+    url   http://172.20.0.227/trackingsap/#/solicitudesDespachadas
+
+*****************************
+
+service  layer   url   https://172.20.1.15:50000/Service%20Layer%20API%20Reference.html
+
+xsjs      postman url  http://172.20.1.18:8000/ccibao/v1/tracking/ticketvale_produccion.xsjs?docnum=1195
+
+
+8308  flota servicio al cliente
+**********postman**************
+usuario=ninomax0529@gmail.com
+clave =M@x1234567890
+
+********************* hanaide ********************************
+hana db  url https://172.20.1.18:4300/sap/hana/ide/
+
+usuario=malmonte
+clave=Ninomax0529@#
+-------------------------------------------------
+400000008
+
+*********salidaMaterial*******************
+usuario=0
+clase=root
+
+******************************************
+sap b1
+
+******************************************
+buscar enque buzon esta un documento.
+informe documento preliminar.
+
+*********************************************
+buscar en que estado  esta un documento.
+
+informe status de autorizaciones
+
+**********************************
+
+
+***Crear concepto nuevo de crdito*****
+herramienta--
+ campo definido por el usuario
+ garantia detalle
+  tipo
+
+.0.254
+*********************
+ODALINA
+809-724-8331 comedor 809-337-4185
+
+031-0561568-0;
+
+vale de nivel uno es <=5000
+
+809-583-3841
+ninomax
+***************************************************
+ubicacion 
+
+requerimiento del sistema de recurso humano
+ip del ponche
+ip de la maquina
+clave del vnc de la maquina.
+
+**************************************************
+db 0.60
+
+---nino
+Ma05291979-------
+
+ini=12153
+
+ini=8347
+
+
+**********************************
+
+http://bj83.de/sap-business-one-common-tables-and-queries/
+http://sapb1hub.blogspot.com/search/label/Informes
+https://soporteb1.wordpress.com/2016/02/23/sap-business-one-tips/
+
+https://victorhckinthefreeworld.com/2016/07/28/git-recuperar-un-archivo-o-todo-el-repositorio-a-una-version-anterior/
+
+https://freedcamp.com/Cementos_Cibao_21L/Actualizacin_SAP_f2z/todos/16397175/ eso es para gestionar tarea.
+
+https://www.youtube.com/watch?v=360iqlTQo-M
+ 
+http://www.jc-mouse.net/javafx/javafx-y-apirest-get
+
+https://integra-scm.atlassian.net/wiki/plugins/viewsource/viewpagesrc.action?pageId=54494593
+
+************************
+notas :
+hibernate con javafx y mysql version 5.5.19 es que funciona.
+cuando copiamos vista chequear metodo que llama la vista copiada.
+
+PROBLEMA JASPERSOFT JRPAGRAFO
+,DRIVER MYSQL VERSION INCORRECTA
+
+
+**********************************************************
+https://www.google.com.do/search?ei=4va8W9mcDc6wzwLkgIn4BQ&q=cuanto+gramo+tiene+una+libra&oq=cuanto+gramo+tie&gs_l=psy-ab.3.0.0j0i20i263k1j0l8.68679.108149.0.111065.16.13.0.3.3.0.132.1345.0j12.12.0....0...1c.1.64.psy-ab..1.15.1358...35i39k1j0i67k1j0i131i67k1.0.z04BsBne8qU
+
+javafx:
+
+http://www.java2s.com/Tutorials/Java/JavaFX/0540__JavaFX_DatePicker.htm
+
+https://code.makery.ch/blog/javafx-dialogs-official/
+
+http://acodigo.blogspot.com/2017/05/buscar-elemento-en-un-tableview-javafx.html
+
+http://www.java2s.com/Tutorials/Java/Data_Type_How_to/Date_Convert/Convert_LocalTime_to_java_sql_Time.htm
+
+http://teleduc.uc.cl/curso/herramientas-de-contabilidad-basica/?utm_medium=email&utm_source=other&utm_campaign=partner.190.opencourse.targetedmessages.marketing~partner.190.9rtk9bUqEeiZoQ4h583PVg
+
+https://www.coursera.org/browse?utm_medium=email&utm_source=recommendations&utm_campaign=-gjnwMsrEeiWIbMCW244MA
+
+https://churriwifi.wordpress.com/2009/12/29/11-herramientas-etl-%C2%BFque-son-para-que-valen-productos-mas-conocidos-etl%C2%B4s-open-source/
+
+http://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?punto=42&codigo=115&inicio=40
+
+*********************************
+IT
+ccmezcladora Ccmezcladora2018@.
+
+montar una carpeta corpartida***********
+
+usuario:cementoscibao\malmomnte
+clave:malmomnte123.
+
+--Proceso para enlazar un tracking con su conduce--
+
+  1-numero de tracking
+  2-numero de la solicitud
+  3-se obtiene el numero de conduce(DocEntry)
+  4-se actualiza el tracking
+
+----fin--------------------------------------
+
+transien un save hibernate problema**************
+solucion :
+un campo obligatorio en  la base de datos no se esta llenando en el encapsulado.
+
+************************************************************************************
+
+jaspertreport plema con textBaseRepotr,es un conflito de libreria
+
+sapManager=S@dmin17.#
+
+id=1143801934
+pw=juaquin
+
+wendy flota 9068
+
+ip de laboratorio 0.118
+
+ip de wendy  0.66
+
+*******
+Deisy flota 1840;
+
+ip 172.20.1.133
+
+ana ip 172.20.0.134
+*******
+1-40-81-53-0689 nitido
+
+karin 172.20.0.135 ip
+flota 6396
+
+Planta 2 
+
+172.20.0.241 ip planta 2
+flota 2484  elvis
+75355831 cl p2
+
+172.20.0.254 ip manuel planta 1
+
+controlador
+
+786-857-7048
+
+0529 acceso de voz ban Reservas
+s3cret
+809-580-1992 mery;
+
+ercira ip 0.62
+
+controlador cibaoMix ip 0.242
+
+
+flota =9068 WENDY
+ip=0.66
+f- 2015123 -c- 1516
+
+**************************************
+
+https://o7planning.org/en/11137/javafx-progressbar-and-progressindicator-tutorial#a3862124
+
+https://code.makery.ch/es/library/javafx-tutorial/part7/
+
+http://unidash.cementoscibao.lan/#/indicadores/generar
+
+https://examples.javacodegeeks.com/desktop-java/javafx/javafx-print-api/
+http://elcontador.net/naturaleza-de-las-cuentas-contables/
+
+https://aulacm.com/codigos-web-css-y-html-wordpress/
+
+https://blog.ng-classroom.com/blog/ionic2/sqlite-and-ionic/ npm install @ionic/app-scripts@latest --save-dev
+
+***Datos de la maquina de rayox*******
+ip 172.20.0.130
+programa Rayosx
+
+****************************************
+
+*** Ejecutar aplicaciones de ionic en un diposito *******
+
+cordova run android
+
+cuentagmail
+ninomax05291979 pw
+
+********************************************************
+
+10027695 ;
+
+
+https://javiergarciaescobedo.es/programacion-en-java/93-proyectos-de-aula/478-programacion-java-desarrollando-el-juego-pong-con-javafx-parte-ix;
+
+sap ejemplo**************sap b1
+
+ inicializar el add-on para clientes destino :
+ filtrar escribiendo add-on luego inicializar la primera opcion .
+  shift+alt+f2 para consulta enlazada en sap b1 EN EL CAMPO QUE QUEREMOS LLENAR
+
+http://www.qualityinfosolutions.com/crear-busquedas-formateadas-en-sap-business-one/ ;
+http://www.developandsys.es/menu-javafx/
+
+Modificacion provincia  y municipio.
+
+*************************************
+base de datos parada y su causa
+ip 172.20.1.14
+us=admin contra=admin123
+
+**************************
+EnyDesk us id 135328789
+pws 19790529Max
+0529Ninomax
+PASSWORD naturaleza123456
+**********credenciales servidor naturaleza****************
+credenciales servidor naturaleza****
+
+ssh usaurio=naturaleza@naturaleza.ddns.net -p 2088
+contra=Naturaleza20.#
+
+********credenciales servidor naturaleza*************************
+100054245 
+
+Saludo.
+
+El requerimiento solicitado ya fue validado y entregado.
+
+Cualquier inquietud estamos a la orden.
+
+Departamento de (IT).
+
+352739.2?
+
+https://pixelduke.com/fxribbon/
+
+/* select * from   OITR  r  where   r."ReconDate" >=[%0] and r."ReconDate" <=[%1] */
+
+select 
+*
+ --sum(valor_reconciliado)
+  from 
+
+( SELECT
+
+P1."ReconNum" ,
+-- as numero_reconciliacion,
+P1."ReconDate" ,
+-- as fecha_reconciliacion,
+--P3."DocNum" as doc,
+
+case when "IsCredit"='D' then  P3."DocNum" else  P4."DocNum" end as numero_documento,
+case when "IsCredit"='D' then  P3."DocDate" else  P4."DocDate" end as fecha_documento,
+case when "IsCredit"='D' then  'Factura'  else 'Recibo' end as tipo_documento,
+case when "IsCredit"='D' then  P2."ReconSum"  else 0 end as valor_reconciliado,
+P3."DocNum" as numero_factura,
+P4."DocNum" as numero_recibo,
+case when "IsCredit"='C' then  P2."ReconSum"  else 0 end as valor_recibo,
+
+"IsCredit"
+
+FROM OITR P1 
+INNER JOIN ITR1 P2 ON P1."ReconNum"=P2."ReconNum" 
+left JOIN OINV P3 ON P2."SrcObjAbs"=P3."DocEntry"  and P2."SrcObjTyp"='13'
+left JOIN ORCT P4 ON P2."SrcObjAbs"=P4."DocEntry"   and P2."SrcObjTyp"='24'
+
+WHERE
+ 
+ P1."Canceled"='N'  
+-- and P1."ReconNum"=66690
+and ( P1."ReconType" = 0)
+
+ and P2."SrcObjTyp" in('24','13')  ) as r
+  
+ where
+  length(numero_documento)>0   and 
+  
+    r."ReconDate">=[%0] and r."ReconDate"<=[%1]
+
+
+order by r."ReconNum"
+
+
+
+
+($F{libra_bruta}==0 ? $V{tonelada_1} :
+
+    ($F{estado}==2 ? $V{tonelada_1}
+
+ : $V{tonelada_1})
+)
+
+( $F{libra_bruta}==0 ?  $F{tonelada} :
+
+ ($F{estado}==2 ? $F{tonelada}
+
+ : $F{ton})
+) tonelada
+
+*****Actualizacion con dos tablas*****
+select * from 
+-- update 
+ solicitud_cheque sc
+ inner join detalle_solicitud_cheque dt
+on sc.codigo=dt.solicitud_cheque
+
+-- set  condicion="ConFactura"
+
+where condicion is null
+
+******Fin****************
+
+
+***********VPN*************
+entrar a https://vpn.cementoscibao.net
+
+usuario=maximilianoa
+clave =Ninomax0529@
+
+Descargar el programa de vpn
+
+**********Fin**************
+
+http://expertojava.ua.es/experto/restringido/2014-15/rest/rest.html
+https://howtodoinjava.com/java/library/jaxrs-client-httpclient-get-post/
+https://pipedream.com/explore
+https://contaestudio.com/asiento-contable-de-ventas/
+
+*** Datos seguimiento de materia prima *****
+ 
+   Kelvin 3051
+   ip 0.175 
+********************
+
+**problema vaadin****
+
+ problema con el webPack a la hora de hacer un build .
+  solucion:
+   es la version de node js,para jdk 8 o < tiene que ser la version  16< de node 
+  
+Spring boot --
+cuando generamos las entidades 
+y estamos usando 
+spring data 
+
+tenemos que eliminar del pom 
+esta dependencia 
+  <dependency>
+            <groupId>org.eclipse.persistence</groupId>
+            <artifactId>org.eclipse.persistence.jpa.modelgen.processor</artifactId>
+            <version>2.5.2</version>
+            <scope>provided</scope>
+        </dependency>
+
+en el archivo persistencia.xml del proyecto.
+--
+**problema vaadin****
+
+
+telefono naturaleza***
+809-572-2759 extension 2 contabilidad
+
+****
+base de datos
+1.14
+admin
+admin123;
+****************************************
+Tarea realizada :
+controlar en medida de silo la bodega que siempre este para 
+exportar todos
+
+fecha Thu Apr 29 00:00:00 BOT 2021
+filas 1
+filas 1
+filas 6
+java.lang.IndexOutOfBoundsException: Index: 10, Size: 10
+	at java.util.ArrayList.rangeCheck(ArrayList.java:657)
+
+***********************
+809-572-2759-2 contabilidad
+
+apache tomcat 9.0.37
+user : tomcat
+clave : admin123
+*************************
+Esmeralda 829-546-1510
+
+***********************
+costo de cemento tabla de materiales***********
+
+CEMENTOS CIBAO A GRANEL
+
+anterior 3315.75  nuevo 3613.01
+
+CEMENTOS CIBAO ENVASADO
+
+anterior 3050.3  nuevo 3613.01
+
+CEMENTOS CIBAO EXPORTACION
+
+anterior 3000  nuevo 3613.01
+
+**************
+
+******osticket****
+http://172.20.1.149/scp/login.php
+usuario : maximilianoa@cementoscibao.com
+clave   : 1234567890 .
+
+-----------------------------
+
+Recursos humanos .
+http://172.20.1.128/tickets.php?id=349
+
+****************************
+contraseña de facebook 
+19790529Ninomax
+usuario ninomax0529@gmail.com
+
+*********************
+https://www.toptrabajos.com/blog/do/descuentos-de-nomina-sfs-afp-isr/#:~:text=El%20aporte%20que%20realizas%20de,igual%2C%20por%200%2C0304.
+credenciales del club generar riqueza*****
+
+usuario=ninomax0529@gmail.com
+clave=## h73426 ***
+
+Clave CC wifi=RottenPop@64
+
+https://www.programasvirtualespc.net/software/vuescan-pro-full-final-2021/
+
+***************Dominio Cementos Cibao***********
+
+usaurio : winadmin
+
+clave :  Cmntscb1964.
+
+***************Cierre***************************
+
+*********
+Correo cc-----------------------
+maximilianoa@**************
+clave=[##]Ninomax0529@
+-----------------------------
+*************************
+https://carreradelossuenos20.club.hotmart.com/lesson/97BGwGD2Op/clase-de-presentacion-del-curso-completo
+usaurio ninomax0529
+clave : 0529ninomax
+
+Infinite Nan error en division por cero no es posible;
+
+
+The plugin org.apache.maven.plugins:maven-resources-plugin:3.2.0 requires Maven version 3.1.0
+  ** tiene que estar configurado en netbean ruta tool/optiones/java/maven
+
+
+****************Db produccion de prueba**************
+ clave   : Deprueba2022#
+ usuario : maximilianoa
+
+****************Db produccion de prueba**************
+****************clouding.io**************
+ usuario : ninomax0529@gmail.com
+ clave : M@x123456789
+
+******************************************
+
+host      = 172.20.0.60
+DB        = db_gestion_turno
+User/Pass = sgestiont/CargasCamionCC2023#
+
+**************  para compilar un ejecutable con maven ****************************
+
+  <build>
+        <plugins>
+            <plugin>
+                <!-- Build an executable JAR -->
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.2.2</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
+                            <mainClass>com.mycompany.archivoejecutable.Principal</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
+
+*******************firmar archivo cxml con java ***************************
+ https://tutoriales.adsib.gob.bo/_06/index.html
+ 
+ *************** aws ***************************
+ ninomax0529@gmail.com  
+ @aws1234567890
+  
+ *************** aws ***************************
+
+************ removeolphan ***************************
+Me parece que tiene un jar JPA API 1.0 en su classpath de tiempo de ejecución ya que el atributo orphanRemoval se introdujo en JPA 2.0 y el error que recibe significa que el atributo en sí no se encuentra en la versión de API descubierta en tiempo de ejecución, lo que solo debería sucede en el caso de JPA 1.0. Verifique su classpath de tiempo de ejecución.
+
+************ removeolphan ***************************
+
+Wazuh es un sistema de detección de intrusos basado en host de código abierto y libre. Realiza análisis de registro, comprobación de integridad, supervisión del registro de Windows, detección de rootkits, alertas basadas en el
+
