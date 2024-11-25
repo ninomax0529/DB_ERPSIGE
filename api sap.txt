@@ -41,11 +41,12 @@ El destino se creo exitosamente.
 Pasos para crear un destino internacional.
 
 
-2) Provincias y Municipios
- actualizar y listo.
-
 1) Crear ciudades y sectores.
 
+4) Provincias y Municipios
+ actualizar y listo.
+
+BELLA VISTA
 2) Provincias y Municipios
 
 3) Socio de negocio > crear > direcciones >definir nuevo >
@@ -54,7 +55,7 @@ Pasos para crear un destino internacional.
 
 
 nota:
- enlazar el codigo de provincia y municipio dela provincia nueva creada
+ enlazar el codigo de provincia y municipio de la provincia nueva creada
  definiendo una provincia nueva
 
 
@@ -118,8 +119,11 @@ https://www.jsonschema2pojo.org/
 
 Microsoft to do *******************
 
+yadira = 829-352-3092
+
  usaurio : ninomax0529@gmail.com
   clave : Max1234567890
+ y adiro
 neno : 809-629-0465
 celular comedor 829-971-5178
 
@@ -384,7 +388,10 @@ https://speques.wordpress.com/2010/09/22/tablas-de-sap-business-one/
 ****************************
 solicitud banreservas 1-7922812579
 
-felix =809-447-7445
+felix :
+casa :809-447-7445
+trabajo : (829) 520-0512
+personal :
 
 fecha 2020-11-27
 que no se pudieron cancelar los documentos por una reconciliacion automatica
@@ -421,6 +428,8 @@ inacio 829-478-2126
 ingri :809-242-7444
 809-501-2890 cel de ingri
 Banco caribe *****
+ninomax0529
+M@x0529sof
 donde naciste
   maovalverde
 telefono : 809-242-7444
@@ -632,7 +641,7 @@ clave=Ma05291979
 *******************************
 ***********github*************
 usuario=ninomax0529@gmail.com
-clave=@nino1234567890
+clave=@ninomax1234567890
 -----------------------------------------
 ******************************
 java.io.InputStream
@@ -1298,7 +1307,7 @@ User/Pass = sgestiont/CargasCamionCC2023#
  
  *************** aws ***************************
  ninomax0529@gmail.com  
- @aws1234567890
+  m@xsoft123
   
  *************** aws ***************************
 
